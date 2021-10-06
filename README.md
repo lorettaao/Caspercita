@@ -24,3 +24,12 @@ Marketing
 
 
 While you're holding $Caspercita tokens, you're earning Casper. You can also keep track of how much Casper you have earned and when the next payout is by inputing wallet address on website and checking dashboard.
+
+
+ROADMAP
+
+Token Mapping and Creation
+Website Building
+Airdrop and Token Launch
+Listing and Marketing
+Community Development
